@@ -1,0 +1,16 @@
+creature_illithid_animal
+
+[OBJECT:CREATURE]
+
+[CREATURE:ELDERBRAIN]
+	[NAME:elder brain:elder brains:elder brain]
+	[CREATURE_TILE:'E'][COLOR:7:0:1]
+	[FANCIFUL]
+	[DOES_NOT_EXIST]
+	[PREFSTRING:great power]
+	[PREFSTRING:fearsome apperance]
+	[PREFSTRING:psionic mastery]
+	[ALL_ACTIVE]
+	[CASTE:OVERLORD]
+		[CASTE_NAME:elder brain:elder brains:elder brain]
+		[NO_GENDER]
