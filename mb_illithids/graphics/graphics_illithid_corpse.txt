@@ -1,0 +1,5 @@
+graphics_illithid_corpse
+
+[OBJECT:GRAPHICS]
+
+	[CORPSE:ILLITHID_CORPSE:0:0:AS_IS]

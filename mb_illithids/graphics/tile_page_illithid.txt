@@ -8,16 +8,31 @@ tile_page_illithid
 	[PAGE_DIM_PIXELS:288:416]
 
 [TILE_PAGE:ILLITHID_CLOTHING]
-	[FILE:images/human_clothes.png]
+	[FILE:images/illithid_clothes.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:576:736]
 
 [TILE_PAGE:ILLITHID_ARMOR]
-	[FILE:images/human_armor.png]
+	[FILE:images/illithid_armor.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:416:800]
 
 [TILE_PAGE:ILLITHID_WIELDABLES]
-	[FILE:images/human_wieldables.png]
+	[FILE:images/illithid_wieldables.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:960:864]
+
+[TILE_PAGE:ILLITHID_BODY_SPECIAL]
+	[FILE:images/illithid_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:ILLITHID_STATUE]
+	[FILE:images/illithid_statue.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:SUCCUBUS_BODY_CORPSE]
+	[FILE:images/illithid_corpse.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]

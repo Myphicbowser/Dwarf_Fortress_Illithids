@@ -1,0 +1,8 @@
+tile_page_illithid_animal
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:BRAIN_DRAGON]
+	[FILE:images/brain_dragon.png]
+	[TILE_DIM:64:64]
+	[PAGE_DIM_PIXELS:64:64]
