@@ -4,6 +4,6 @@ This mod is going well enough for now, special thanks to Legobrick22 for Code an
 This would be impossible without their help.
 These Illithid are based off of the source book the Illithiad for the Second Edition of Advanced Dungeons and Dragons
 
-Currently, I rate it Unplyable
+Currently, I rate it Playable, but not perfect
 Outstanding issues:
-Sprites don't work
+Minor Errorlog Stuff
