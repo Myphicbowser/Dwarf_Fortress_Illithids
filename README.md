@@ -6,4 +6,5 @@ These Illithid are based off of the source book the Illithiad for the Second Edi
 
 Currently, I rate it Playable, but not perfect
 Outstanding issues:
-Minor Errorlog Stuff
+N/A
+Now its all about Quality baby!
