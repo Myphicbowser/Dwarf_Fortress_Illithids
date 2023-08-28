@@ -32,7 +32,7 @@ tile_page_illithid
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:32:32]
 
-[TILE_PAGE:SUCCUBUS_BODY_CORPSE]
+[TILE_PAGE:ILLITHID_CORPSE]
 	[FILE:images/illithid_corpse.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:32:32]
