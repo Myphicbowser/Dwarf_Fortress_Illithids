@@ -4,5 +4,5 @@ tile_page_illithid_animal
 
 [TILE_PAGE:BRAIN_DRAGON]
 	[FILE:images/brain_dragon.png]
-	[TILE_DIM:64:64]
+	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:64:64]
