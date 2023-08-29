@@ -9,7 +9,7 @@
 
 [STEAM_TITLE:Illithids]
 
-[STEAM_DESCRIPTION:The Illithids from the D&D universe have been lovingly brought into the universe of Dwarf Fortress, now you TO can commit warcrimes involving brains! I won't spend too long detailing this mod but I will tell you that included with this mod is a Playable Mindflayer Civ, an incredibly dangerous Brainwyrm, and the mighty Ulitharid as a rare caste within the Illithid Kingdoms! Now, to explain one big difference, due to the technical limitations of DF and the token system, I was unable to create the elder brain, keep an eye out for a very worm friendly update down the line! Special thanks to DPh Kraken for their work on the Illithid language, Legobrick22 for numerous contributions and spending time to learn code with me, dikbutdagrate for the beautiful sprites we're using here, and McNuggy for the Brainwyrm Sprite! This wouldn't be possible without them!]
+[STEAM_DESCRIPTION:The Illithids from the D&D universe have been lovingly brought into the universe of Dwarf Fortress, now you TO can commit warcrimes involving brains! I won't spend too long detailing this mod but I will tell you that included with this mod is a Playable Mindflayer Civ, an incredibly dangerous Brainwyrm, and the mighty Ulitharid as a rare caste within the Illithid Kingdoms! Now, to explain one big difference, due to the technical limitations of DF and the token system, I was unable to create the elder brain, keep an eye out for a very worm friendly update down the line! Special thanks to DPh Kraken for their work on the Illithid language, dikbutdagrate for the beautiful sprites we're using here, and McNuggy for the Brainwyrm Sprite! This wouldn't be possible without them!]
 
 [STEAM_TAG:mod]
 [STEAM_TAG:race]
