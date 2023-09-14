@@ -5,6 +5,6 @@ This would be impossible without their help.
 These Illithid are based off of the source book the Illithiad for the Second Edition of Advanced Dungeons and Dragons
 
 Currently, I rate it Playable, but not perfect
-Outstanding issues:
-N/A
+
+Outstanding issues: N/A
 Now its all about Quality baby!
