@@ -10,6 +10,9 @@ Outstanding issues: N/A
 Now its all about Quality baby!
 
 Current Objectives: 
+
 Elder Brain Building- Needs the Sprite and some fancy reactions, already have a few ideas but mostly the building won't be used too often, its just important lore wise
+
 Thralls- Figure out a Thrall System to have slave Dwarves and Humans etc
+
 Sprites- Could probably use new sprites that also include armor and new clothes
