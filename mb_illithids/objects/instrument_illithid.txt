@@ -3,7 +3,7 @@ instrument_illithid
 [OBJECT:ITEM]
 
 [ITEM_INSTRUMENT:BONETHRIVEN]
-	[NAME:bonethriven:bonethrivens]
+	[NAME:thriven:thrivens]
 	[VALUE:75]
 	[SIZE:27500]
 	[MATERIAL_SIZE:3]
