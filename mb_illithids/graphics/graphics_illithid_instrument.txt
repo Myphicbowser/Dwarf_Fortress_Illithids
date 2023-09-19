@@ -1,5 +1,5 @@
-graphics_illithid_instruments
+graphics_illithid_instrument
 
 [OBJECT:GRAPHICS]
 
-	[TILE_GRAPHICS:INSTRUMENTS:0:1:BONETHRIVEN]
+[TILE_GRAPHICS:ILLITHID_INSTRUMENTS:0:1:BONETHRIVEN]
