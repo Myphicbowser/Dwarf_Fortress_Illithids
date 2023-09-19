@@ -1,0 +1,13 @@
+text_illithid
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_ILLITHID]
+
+who I sent back to the abyss where it crawled from
+whose hunger for knowledge drove it to doom
+who was dead from the start
+now an inky stain in the dead book
+who braved the sun and burnt
+who now suffer in the shackles of damnation
+who gave everything for their madness
