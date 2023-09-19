@@ -1,3 +1,5 @@
+instrument_illithid
+
 [ITEM_INSTRUMENT:BONETHRIVEN]
 [NAME:bonethriven:bonethrivens]
 [VALUE:75]
