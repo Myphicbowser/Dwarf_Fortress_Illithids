@@ -36,3 +36,9 @@ tile_page_illithid
 	[FILE:images/illithid_corpse.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:ILLITHID_INSTRUMENT]
+	[FILE:images/illithid_instrument.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]
+

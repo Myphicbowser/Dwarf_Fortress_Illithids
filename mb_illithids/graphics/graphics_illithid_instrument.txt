@@ -1,0 +1,5 @@
+graphics_illithid_instruments
+
+[OBJECT:GRAPHICS]
+
+	[TILE_GRAPHICS:INSTRUMENTS:0:1:BONETHRIVEN
