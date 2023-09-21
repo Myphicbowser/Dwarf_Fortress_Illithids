@@ -19,6 +19,10 @@ Currently, there are two castes; Illithid and Ulitharid. Ulitharid are bigger th
 
 Penumbra, a rare material once used in the construction of the artifical homeworld of the illithid, now smelted by tossing rare materials together in a mysterious way to create metal ready for anything. As heavy as steel and half as sharp as adamantine, Penumbral tools and Armor are one of the best kept secrets of the illithid arsenal, more straightfoward but expensive than steel, you'll need One Gold bar, Two Lead Bars, and Three Iron bars to produce Two Penumbral Bars. This material should be all you need, especially since you can't make steel!
 
+[h1] Differences compared to Dwarves [/h1]
+
+Illithids do /not/ need to be constantly drunk to survive, but can enjoy some relexation time but on the average tend to care about it much less. They are weaker in a few ways, but being as big as humans makes them somewhat more durable. They all have an innate Mindattack, Tentacle Poison, and a Psionic Shield. When it comes to skills specefically, they believe that knowledge is a powerful tool that shouled be utilized at all times, they gain scholarly skills at TWICE the rate of a Dwarf and those skills never rust, by the power of Big Brain!
+
 [h1] The Future [/h1]
 
 Now, eventually I plan on adding the Elder Brain as a member of the Ruling Caste, but that is far off in the future. I also plan on re-visiting my ideas for Ceremorphosis and Slavery/Thralldom in the future. I plan on this mod to develop WITH Dwarf Fortress, not ahead of it, I'm not a good coder after all.]
