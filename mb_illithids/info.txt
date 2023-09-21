@@ -17,7 +17,7 @@ Currently, there are two castes; Illithid and Ulitharid. Ulitharid are bigger th
 
 [h1] Penumbra [/h1]
 
-Penumbra, a rare material once used in the construction of the artifical homeworld of the illithid, now smelted by tossing rare materials together in a mysterious way to create metal ready for anything. As heavy as steel and half as sharp as adamantine, Penumbral tools and Armor are one of the best kept secrets of the illithid arsenal, more straightfoward but expensive than steel, you'll need One Gold bar, Two Lead Bars, and Three Iron bars to produce Two Penumbral Bars. This material should be all you need, especially since you can't make steel!
+Penumbra, a rare material once used in the construction of the artifical homeworld of the illithid, now smelted by tossing rare materials together in a mysterious way to create metal ready for anything. As heavy as steel and half as sharp as adamantine, Penumbral tools and Armor are one of the best kept secrets of the illithid arsenal, more straightfoward but expensive than steel, you'll need One Gold bar, Two Lead Bars, Three Iron bars, and some flux material to produce Two Penumbral Bars. This material should be all you need, especially since you can't make steel!
 
 [h1] Differences compared to Dwarves [/h1]
 
