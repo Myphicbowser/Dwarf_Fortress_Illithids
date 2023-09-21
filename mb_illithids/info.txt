@@ -1,7 +1,7 @@
 [ID:mb_illithid]
 [NAME:Illithids]
-[NUMERIC_VERSION:1.1]
-[DISPLAYED_VERSION:1.1]
+[NUMERIC_VERSION:1.2]
+[DISPLAYED_VERSION:1.2]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
 [AUTHOR:Myphicbowser]
@@ -9,17 +9,25 @@
 
 [STEAM_TITLE:Illithids]
 
-[STEAM_DESCRIPTION:The Illithids from the D&D universe have been lovingly brought into the universe of Dwarf Fortress, now you TO can commit warcrimes involving brains! I won't spend too long detailing this mod but I will tell you that included with this mod is a Playable Mindflayer Civ, an incredibly dangerous Brainwyrm, and the mighty Ulitharid as a rare caste within the Illithid Kingdoms! Now, to explain one big difference, due to the technical limitations of DF and the token system, I was unable to create the elder brain and most likely never will as an animal, keep an eye out for a very worm friendly update down the line however as I do have another idea! Special thanks to DPh Kraken for their work on the Illithid language, dikbutdagrate for the beautiful sprites we're using here, and McNuggy for the Brainwyrm Sprite! This wouldn't be possible without them!
+[STEAM_DESCRIPTION:The Illithids from the D&D universe have been lovingly brought into the universe of Dwarf Fortress, now you TO can commit warcrimes involving brains! I won't spend too long detailing this mod but I will tell you that included with this mod is a Playable Mindflayer Civ, an incredibly dangerous Brainwyrm, and the mighty Ulitharid as a rare caste within the Illithid Kingdoms! Special thanks to DPh Kraken for their work on the Illithid language, dikbutdagrate for the beautiful sprites we're using here, and McNuggy for the Brainwyrm Sprite! This wouldn't be possible without them!
 
-When it comes to the ethics of the Mindflayers, they aren't TOO far from dwarves, they don't have a focus on Craftsmanship and don't really need to have time off to drink. They also have a massive focus on Law and Unity and working together and most illithids should want personal power more than Dwarves. Knowledge is the biggest focus for them however, and the Illithid species doesn't lose skills in Knowledge and they also gain knowledge at 1.5x speed, so get those nerds working! When it comes to diplomacy, they're focused on themselves and their body abuse and trophies of other sapient creatures tends to get people mad at them, however they won't make trophies of themselves and all that so they're kinda just supremacists. In all my testing they didn't end up at War as often as I'd like unless it was elves, they really hated the Elves.
+[h1] Castes [/h1]
 
-Other things to note; Ulitharids are a Rare Caste of Illithid who have a more potent mindblast, psionic shield, and tentacle toxin. Standard Illithids also do have a weak Mindblast, Weak Psionicshield, and a Weak Toxin. Brainwyrms are large predatory Dragons with Tentacle Heads that have an ultra powerful Brainblast, Psionic Shield, and Toxin that Illithid are immune to so its still a huge threat, but less to an Illithid. For now there is Genders on the Illithids, which results in new illithids on migration or trade caravans unequipping everything as a syndrome forces them to the Agender Caste. This was done so they could survive worldgen.]
+Currently, there are two castes; Illithid and Ulitharid. Ulitharid are bigger than normal illithids, have a more potent toxin and psionic powers, and are generally more durable and more prone to seeking power. You can idenify them by their two extra ulitharid tentacles, giving them a total of six.
+
+[h1] Penumbra [/h1]
+
+Penumbra, a rare material once used in the construction of the artifical homeworld of the illithid, now smelted by tossing rare materials together in a mysterious way to create metal ready for anything. As heavy as steel and half as sharp as adamantine, Penumbral tools and Armor are one of the best kept secrets of the illithid arsenal, more straightfoward but expensive than steel, you'll need One Gold bar, Two Lead Bars, and Three Iron bars to produce Two Penumbral Bars. This material should be all you need, especially since you can't make steel!
+
+[h1] The Future [/h1]
+
+Now, eventually I plan on adding the Elder Brain as a member of the Ruling Caste, but that is far off in the future. I also plan on re-visiting my ideas for Ceremorphosis and Slavery/Thralldom in the future. I plan on this mod to develop WITH Dwarf Fortress, not ahead of it, I'm not a good coder after all.]
 
 [STEAM_TAG:mod]
 [STEAM_TAG:race]
 [STEAM_TAG:entity]
 [STEAM_METADATA:Mindflayer]
-[STEAM_CHANGELOG:Removed Babysnatcher Tag from Illithids, I decided they were less stealthy about their kidnappings.]
+[STEAM_CHANGELOG:Added the Penumbra Material.]
 
 
 
